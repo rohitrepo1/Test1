@@ -1,0 +1,16 @@
+ 333  git status
+  334  git status
+  335  git status
+  336  git add . 
+  337  git commit -m "updated line 2 of the code"
+  338  git push 
+  339   git push --set-upstream origin v1
+  340  git checkout -b v2
+  341  git satus
+  342  git satus
+  343  git status
+  344  git add .
+  345  git commit -m "removed line 1"
+  346  git push 
+  347   git push --set-upstream origin v2
+  348  clear 
